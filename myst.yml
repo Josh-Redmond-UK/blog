@@ -23,6 +23,6 @@ project:
     
 site:
   template: book-theme
-   options:
-     logo_text: 'Josh Redmond'
+  options:
+    logo_text: 'Josh Redmond'
   #   logo: site_logo.png
