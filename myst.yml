@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 6b990ea5-9783-4b42-91b5-33c36fc5388f
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/Josh-Redmond-UK/blog
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
