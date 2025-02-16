@@ -23,6 +23,7 @@ project:
     
 site:
   template: book-theme
-  # options:
+   options:
+      logo_text: 'Josh Redmond'
   #   favicon: favicon.ico
   #   logo: site_logo.png
