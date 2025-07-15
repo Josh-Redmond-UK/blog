@@ -14,7 +14,7 @@ project:
     - file: index.md
     - file: cv.md
     - title: Blog
-    - children:
+      children:
       - pattern: 'blog/*/*/*/*.md'
 site:
   template: book-theme
