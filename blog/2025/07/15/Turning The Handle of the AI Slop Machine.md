@@ -22,7 +22,7 @@ There were a few issues that I had to work out, like Veo3 not handling precise a
 
 ## What Happened
 
-The end result was a 38 second long YouTube shorts style video (with slowed and reverbed Sleepwalker by Akiaura in the background, of course) which was meant to set the scene for the wider series (named "Neon Blood") that Claude generated. Give it a [watch here.](https://youtu.be/ECskY1MPsb8).
+The end result was a 38 second long YouTube shorts style video (with slowed and reverbed Sleepwalker by Akiaura in the background, of course) which was meant to set the scene for the wider series (named "Neon Blood") that Claude generated. Give it a [watch here.](https://youtu.be/ECskY1MPsb8)
 
 
 There are a few things that I would do differently, as well as some technical limitations that I encountered. 
