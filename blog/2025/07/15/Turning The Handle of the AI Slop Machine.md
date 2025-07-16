@@ -22,7 +22,7 @@ There were a few issues that I had to work out, like Veo3 not handling precise a
 
 ## What Happened
 
-The end result was a 38 second long YouTube shorts style video (with slowed and reverbed Sleepwalker by Akiaura in the background, of course) which was meant to set the scene for the wider series (named "Neon Blood") that Claude generated. Give it a [watch here.](https://youtu.be/ECskY1MPsb8)
+The end result was a 38 second long YouTube shorts style video (with slowed and reverbed Sleepwalker by Akiaura in the background, of course) which was meant to set the scene for the wider series (named "Neon Blood") that Claude generated. Sadly, it really isn't very good (I am not sure Claude is going to win any best director Oscars any time soon). Give it a [watch here.](https://youtu.be/ECskY1MPsb8)
 
 
 There are a few things that I would do differently, as well as some technical limitations that I encountered. 
@@ -34,6 +34,8 @@ There are a few things that I would do differently, as well as some technical li
 ## Conclusions
 
 Overall, I think this process was interesting but fundamentally lacks the creative control that makes good TV good. Precise choreography, selection of props/setting, and carefully designed shot framing are basically all impossible. Admittedly, I don't really know much about each of those individual crafts, but it was still frustrating to me to not be able to actually precisely control the generations. 
+
+Importantly, as someone who doesn't have a background in filmmaking, script writing, or anything related, I defintely didn't feel I could make the most of the tools I had access to. Things might have turned out better if I had more of a sense of what kinds of things should be included, and how to guide Claude and Veo3 in the right direction. 
 
 It also doesn't really feel like something I have much emotional or creative input or stake in - it feels quite far removed from my own creative process or ideas. Maybe that's because I didn't engage with Claude enough to build a world and characters that felt meaningful to me, but in a visual medium there would still be something missing without that finer control, in my view. 
 
