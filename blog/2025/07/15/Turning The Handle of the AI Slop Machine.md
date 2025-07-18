@@ -1,3 +1,5 @@
+![Cartoon creature turns the handle of an "AI Slop Machine" as brown goo pours out, in a satirical editorial illustration.](img/ai_slop_article_cover_image.png)
+
 # Turning The Handle of the AI Slop Machine
 
 For some reason, my YouTube feed has become totally and catastrophically polluted with Game of Thrones shorts. Normally in the form of "edits", where everyone's favourite fantasy series is recut over and over with eye-meltingly high saturation and brightness and (slowed and reverbed) sad electronic music. Unfortunately, I also can't stop watching them. 
@@ -16,7 +18,7 @@ As a little Sunday project, I decided to see if I could go one step further, and
 
 I wanted to ai-ify this as much as possible, so that the end result would be (to borrow a phrase from Succession) "Ikea'd to fuck". Flat-packed content. This means that I wanted AI to write scripts, design each shot, write Veo3 prompts to create the shots, and compose these into coherent short videos. I also wanted a meta-prompt so I could re-create this process. 
 
-I've been feeling some Nostalgia for urban fantasy action films, like the Underworld series, so I was interested in applying this approach to a cyberpunk vampire theme. I asked Claude to generate the concept for three episodes of this new series, fit within short video clips that could be composed into YouTube shorts. I'd then take the prompts and put them into Veo3, and once those were complete I edited them together in CapCut following Claude's instructions on shot length and order.
+I've been feeling some nostalgia for urban fantasy action films, like the Underworld series, so I was interested in applying this approach to a cyberpunk vampire theme. I asked Claude to generate the concept for three episodes of this new series, fit within short video clips that could be composed into YouTube shorts. I'd then take the prompts and put them into Veo3, and once those were complete I edited them together in CapCut following Claude's instructions on shot length and order.
 
 There were a few issues that I had to work out, like Veo3 not handling precise actions of characters correctly (in this case, loading a gun), so I asked Claude to update its prompts to work around these limitations. At the end, I had Claude generate a new prompt that I could use to generate more new episodes and clips, integrating the feedback and challenges that I encountered through using Veo3. 
 
