@@ -2,6 +2,7 @@
 
 ![Cartoon creature turns the handle of an "AI Slop Machine" as brown goo pours out, in a satirical editorial illustration.](img/ai_slop_article_cover_image.png)
 
+
 For some reason, my YouTube feed has become totally and catastrophically polluted with Game of Thrones shorts. Normally in the form of "edits", where everyone's favourite fantasy series is recut over and over with eye-meltingly high saturation and brightness and (slowed and reverbed) sad electronic music. Unfortunately, I also can't stop watching them. 
 
 My favourite creator so far in this micro-genre developed in a lab hijack my brain is [Nihaaledits](https://www.youtube.com/@Nihaaledits/shorts). They work extensively in the Game of Thrones edit niche, producing videos approximately 30 seconds in length with titles like:
